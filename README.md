@@ -1,10 +1,36 @@
 # VCS (Github) Setup Document
 
 
+## Table of content
+
+| Serial No. | Heading                                             |
+|:------------:|-----------------------------------------------------|
+| 1          | [Introduction](#introduction)                       |
+| 2          | [Purpose](#purpose)                                 |
+| 3          | [Features](#features)                               |
+| 4          | [Prerequisites](#prerequisites)                     |
+| 5          | [Step by Step Setup](#step-by-step-setup)           |
+| 6          | [Conclusion](#conclusion)                           |
+| 7          | [Contact](#contact)                                 |
+| 8          | [References](#references)                           |
+
+
+
+| Author         | Created on | Version | Last updated by  | Last edited on |
+|:----------------:|:------------:|:---------:|:------------------:|:----------------:|
+| Palash Kamble  | 08-04-2024 | 1.0     | Palash Kamble    | 08-04-2024     |
+
+
+
 ## Introduction
 
 
 This guide will help you install GitHub, an important tool for managing and working on software projects with others. GitHub is like a website where developers can store and organize their code. It's really helpful for teamwork and keeping track of changes made to the code.
+
+
+## Purpose
+
+GitHub is a platform for hosting code that allows for version control and collaboration. It allows you and others to collaborate on projects from anywhere. This lesson will teach you the fundamentals of GitHub, such as repositories, branches, commits, and pull requests
 
 
 
@@ -16,7 +42,7 @@ This guide will help you install GitHub, an important tool for managing and work
 
 
 
-|   | **Feature**                   | Description                                                                                                                           |
+|  **Sr No** | **Feature**                   | Description                                                                                                                           |
 |---|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 1. | **Smooth project management** | GitHub provides a collaborative space for project managers and developers to coordinate, track, and update their work efficiently. Projects progress smoothly, ensuring timeliness and transparency. |
 | 2. | **Safe packages**              | GitHub allows you to publish packages privately or publicly, facilitating easy sharing within teams or with the open-source community. Packages can be downloaded directly from GitHub for use or reuse. |
@@ -105,6 +131,28 @@ Organizations are like folders for organizing and overseeing multiple repositori
 ![image](https://github.com/palash80/projec-1/assets/153359214/93d47fac-9b84-4d84-94c7-3c9ac1ae4c87)
 
 
+
+## Conclusion
+
+This guide helps you set up GitHub, a vital tool for managing software projects. By following the steps, you create an account, explore features like project management and issue tracking, and set up organizations and repositories for teamwork. GitHub streamlines collaboration and communication, making it essential for developers and organizations.
+
+
+
+## Contact
+
+
+Name           | Email Address
+---------------|----------------------
+Palash Kamble  | palash.kamble@opstree.com
+
+
+
+## References
+
+| Reference Link                                    | Description                                              |
+|---------------------------------------------------|----------------------------------------------------------|
+| [YouTube - GitHub Tutorial](https://youtu.be/3zSj_Q02yLU?feature=shared) | Tutorial video explaining GitHub basics                 |
+| [Everhour Blog - What is GitHub?](https://everhour.com/blog/what-is-github/) | Article providing an overview of GitHub and its uses    |
 
 
 
