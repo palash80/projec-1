@@ -1,6 +1,13 @@
 # VCS (Github) Setup Document
 
 
+| Author         | Created on | Version | Last updated by  | Last edited on |
+|:----------------:|:------------:|:---------:|:------------------:|:----------------:|
+| Palash Kamble  | 08-04-2024 | 1.0     | Palash Kamble    | 08-04-2024     |
+
+
+
+
 ## Table of content
 
 | Serial No. | Heading                                             |
@@ -15,10 +22,6 @@
 | 8          | [References](#references)                           |
 
 
-
-| Author         | Created on | Version | Last updated by  | Last edited on |
-|:----------------:|:------------:|:---------:|:------------------:|:----------------:|
-| Palash Kamble  | 08-04-2024 | 1.0     | Palash Kamble    | 08-04-2024     |
 
 
 
@@ -126,7 +129,7 @@ Organizations are like folders for organizing and overseeing multiple repositori
 
 ![image](https://github.com/palash80/projec-1/assets/153359214/c352e8f4-e98a-4328-a35c-516afd8286f6)
 
-- Output
+- **Output**
 
 ![image](https://github.com/palash80/projec-1/assets/153359214/93d47fac-9b84-4d84-94c7-3c9ac1ae4c87)
 
@@ -149,7 +152,7 @@ Palash Kamble  | palash.kamble@opstree.com
 
 ## References
 
-| Reference Link                                    | Description                                              |
+| Link                                    | Description                                              |
 |---------------------------------------------------|----------------------------------------------------------|
 | [YouTube - GitHub Tutorial](https://youtu.be/3zSj_Q02yLU?feature=shared) | Tutorial video explaining GitHub basics                 |
 | [Everhour Blog - What is GitHub?](https://everhour.com/blog/what-is-github/) | Article providing an overview of GitHub and its uses    |
